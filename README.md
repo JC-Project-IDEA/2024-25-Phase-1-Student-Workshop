@@ -37,8 +37,6 @@
 </li>
 <li>
    <a> SnapSound Software Code 下載 (Processing)</a>
-</li>
-<li>
 <!--
 <li>
    <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson7.pdf"> 第7堂 - Debugging </a>
