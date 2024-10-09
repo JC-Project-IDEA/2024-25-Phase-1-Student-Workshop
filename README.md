@@ -1,6 +1,6 @@
 
 <h1 align="center">🎵 共融藝術 ✕ 科技 學生工作坊 🎵</h1>
-<p align="center"> 2023/24 Phase 2: Student Workshop </p>
+<p align="center"> 2024/25 Phase 1: Student Workshop </p>
 <p align="center">👨‍🏫 Lazarus Chan&emsp;&emsp;👩‍🏫 Fiona Lee&emsp;&emsp;🧑‍🏫 Cat Fung&emsp;&emsp;👨‍🏫 Andio Lai</p>
 
 
