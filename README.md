@@ -12,22 +12,22 @@
 
 
 <li>
-   <a> 第1堂 -  </a>
+   <a> 第1堂 - Sound Art & Graphic Notation </a>
 </li>
 <li>
-   <a> 第2堂 - </a>
+   <a> 第2堂 - SnapSound Part I: Sound Recording </a>
 </li>
 <li>
-   <a> 第3堂 -  </a>
+   <a> 第3堂 - SnapSound Part II: Sound Editing </a>
 </li>
 <li>
-   <a> 第4堂 -  </a>
+   <a> 第4堂 - SnapSound Part III: Graphic Notation </a>
 </li>
 <li>
-   <a> 第5堂 -  </a>
+   <a> 第5堂 - SnapSound Part IV: Arduino UNO & Programming </a>
 </li>
 <li>
-   <a> 第6堂 -  </a>
+   <a> 第6堂 - SnapSound Part V: Assembling </a>
 </li>
 <li>
    <a> SnapSound Software 下載 (Windows)</a>
@@ -36,10 +36,10 @@
    <a> SnapSound Software 下載 (macOS)</a>
 </li>
 <li>
-   <a> SnapSound Software Code 下載 (Processing)</a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/JC-Project-IDEA-SnapSound/JC-Project-IDEA-SnapSound.ino"> SnapSound Software Code 下載 (Processing)</a>
 <!--
 <li>
-   <a href="https://github.com/JC-Project-IDEA/2023-24-Phase-2-Student-Workshop/blob/main/JCIDEA-202324-Phase2-Lesson7.pdf"> 第7堂 - Debugging </a>
+   <a> 第7堂 - Debugging </a>
 </li>
 -->
 
