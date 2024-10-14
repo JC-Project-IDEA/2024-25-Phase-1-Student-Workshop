@@ -15,19 +15,19 @@
    <a> 第1堂 - Sound Art & Graphic Notation </a>
 </li>
 <li>
-   <a> 第2堂 - SnapSound Part I: Sound Recording </a>
+   <a> 第2堂 - Sound Recording </a>
 </li>
 <li>
-   <a> 第3堂 - SnapSound Part II: Sound Editing </a>
+   <a> 第3堂 - Sound Editing </a>
 </li>
 <li>
-   <a> 第4堂 - SnapSound Part III: Graphic Notation </a>
+   <a> 第4堂 - Graphic Notation </a>
 </li>
 <li>
-   <a> 第5堂 - SnapSound Part IV: Arduino UNO & Programming </a>
+   <a> 第5堂 - Arduino UNO & Programming </a>
 </li>
 <li>
-   <a> 第6堂 - SnapSound Part V: Assembling </a>
+   <a> 第6堂 - SnapSound Assembling </a>
 </li>
 <li>
    <a> SnapSound Software 下載 (Windows)</a>
