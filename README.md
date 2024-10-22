@@ -12,10 +12,10 @@
 
 
 <li>
-   <a> 第1堂 - Sound Art & Graphic Notation </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/Student%20Workshop%20Lesson%201.pdf"> 第1堂 - Sound Art</a>
 </li>
 <li>
-   <a> 第2堂 - Sound Recording </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/Student%20Workshop%20Lesson%202.pdf"> 第2堂 - Sound Recording </a>
 </li>
 <li>
    <a> 第3堂 - Sound Editing </a>
