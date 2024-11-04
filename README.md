@@ -18,13 +18,13 @@
    <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/Student%20Workshop%20Lesson%202.pdf"> 第2堂 - Sound Recording </a>
 </li>
 <li>
-   <a> 第3堂 - Sound Editing </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/Student%20Workshop%20Lesson%203.pdf"> 第3堂 - Sound Editing </a>
 </li>
 <li>
-   <a> 第4堂 - Graphic Notation </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/Student%20Workshop%20Lesson%204.pdf"> 第4堂 - Graphic Notation </a>
 </li>
 <li>
-   <a> 第5堂 - Arduino UNO & Programming </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/Student%20Workshop%20Lesson%205.pdf"> 第5堂 - Arduino UNO & Programming </a>
 </li>
 <li>
    <a> 第6堂 - SnapSound Assembling </a>
