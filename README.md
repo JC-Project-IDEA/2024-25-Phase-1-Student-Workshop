@@ -41,7 +41,7 @@
 </li>
 -->
 <li>
-   <a> SnapSound 組裝步驟 </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/Snap%20Sound%20-%20Hardware%20Assembly%20Instructions.pdf"> SnapSound 組裝步驟 </a>
 </li>
 <li>
    <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/JC-Project-IDEA-SnapSound/JC-Project-IDEA-SnapSound.ino"> SnapSound 編碼： </a>
