@@ -33,7 +33,7 @@
    <a> SnapSound Software 下載 (Windows)</a>
 </li>
 <li>
-   <a> SnapSound Software 下載 (macOS)</a>
+   <a href="https://drive.google.com/file/d/1BCxRJr7bYgixKWPqCSsC3M8d7-Ce9Y3i/view?usp=sharing"> SnapSound Software 下載 (macOS)</a>
 </li>
 <!--
 <li>
