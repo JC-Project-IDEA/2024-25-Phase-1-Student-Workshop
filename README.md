@@ -36,7 +36,7 @@
    <a href="https://drive.google.com/file/d/1BCxRJr7bYgixKWPqCSsC3M8d7-Ce9Y3i/view?usp=sharing"> SnapSound Software 下載 (macOS)</a>
 </li>
 <li>
-   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/SnapSound%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A.pdf"> SnapSound 使用手冊 </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/SnapSound%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A.pdf"> SnapSound Software 使用手冊 </a>
 </li>
 <!--
 <li>
