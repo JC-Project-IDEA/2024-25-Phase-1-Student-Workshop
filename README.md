@@ -27,7 +27,7 @@
    <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/Student%20Workshop%20Lesson%205.pdf"> 第5堂 - Arduino UNO & Programming </a>
 </li>
 <li>
-   <a> 第6堂 - SnapSound Assembling </a>
+   <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/Snap%20Sound%20-%20Hardware%20Assembly%20Instructions.pdf"> 第6堂 - SnapSound Assembling </a>
 </li>
 <li>
    <a href="https://drive.google.com/file/d/1kXRQ8U5Da1Qpo4YGeZIUu5nJSUx6hb3d/view?usp=drive_link"> SnapSound Software 下載 (Windows)</a>
