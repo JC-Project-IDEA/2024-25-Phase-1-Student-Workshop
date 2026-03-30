@@ -30,10 +30,10 @@
    <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/Snap%20Sound%20-%20Hardware%20Assembly%20Instructions.pdf"> 第6堂 - SnapSound Assembling </a>
 </li>
 <li>
-   <a href="https://drive.google.com/file/d/1kXRQ8U5Da1Qpo4YGeZIUu5nJSUx6hb3d/view?usp=drive_link"> SnapSound Software 下載 (Windows)</a>
+   <a href="https://drive.google.com/file/d/1rVHSmO8JJOM7uyGL-_cu8lHQcS4ZB2bo/view?usp=sharing"> SnapSound Software 下載 (Windows)</a>
 </li>
 <li>
-   <a href="https://drive.google.com/file/d/1BCxRJr7bYgixKWPqCSsC3M8d7-Ce9Y3i/view?usp=sharing"> SnapSound Software 下載 (macOS)</a>
+   <a href="https://drive.google.com/file/d/17jFs6F6XnTt9WB0znzT5KKIUDa_sSsZs/view?usp=sharing"> SnapSound Software 下載 (macOS)</a>
 </li>
 <li>
    <a href="https://github.com/JC-Project-IDEA/2024-25-Phase-1-Student-Workshop/blob/main/SnapSound%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A.pdf"> SnapSound Software 使用手冊 </a>
